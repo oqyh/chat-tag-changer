@@ -1,5 +1,5 @@
 # Chat Tag Changer
-###It allows you to change the specified chat tags
+### It allows you to change the specified chat tags
 
 ![alt text](https://github.com/oqyh/chat-tag-changer/blob/main/img/old.jpg?raw=true)
 
